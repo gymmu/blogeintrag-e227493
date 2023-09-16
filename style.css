@@ -24,3 +24,23 @@ text-decoration: underline;
   padding-top: 40pt;
 
 }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: blue;
+  font-size: 20px;
+}
+li a {
+  display: block;
+  color: white;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+li a:hover{
+  background-color: darkblue;
+}
+.active {
+  background-color: darkblue;
+}

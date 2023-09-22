@@ -92,7 +92,17 @@ main{
 }
 
 .text1 {
-  width: 50%;
+  color:white;
+  font-size: 25px;
+  margin: 20px;
+  margin-right: 800px;
+  border: 2px ;
+  border-radius: 1px ;
+ background-color: rgb(25, 133, 169);
+ padding: 10px;
+ text-align: justify;
+}
+.text2 {
   color:white;
   font-size: 25px;
   margin: 20px;
@@ -108,5 +118,25 @@ div {
 }
 .img1 {
 
-  width: 50%;
+  width: 600px;
+}
+.img2 {
+
+  width: 600px;
+}
+.img3 {
+
+  width: 600px;
+}
+.img4 {
+
+  width: 600px;
+}
+.img5 {
+
+  width: 600px;
+}
+.img6 {
+
+  width: 600px;
 }

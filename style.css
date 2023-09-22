@@ -19,7 +19,10 @@ h1 {
  
 
 }
-
+h2 {
+text-align: center;
+  font-size: 50px;
+}
 
 
 #Navigationsleiste {
@@ -63,7 +66,7 @@ li a:hover{
 
   border: 0px solid  ;
   border-radius: 0px;
-  margin: 0px;
+  margin: 0px; 
   padding: 10px;
   width: 100%;
   height: 500px; 
@@ -73,8 +76,21 @@ li a:hover{
 }
 main{
   color: darkblue;
-  font-size: 20px;
+  font-size: 25px;
   margin: 20px;
+  margin-left: 600px;
+  border: 2px solid black;
+  border-radius: 8px ;
+ background-color: lightblue;
+ padding: 10px;
+ text-align: justify;
+}
+
+.text1 {
+  color: darkblue;
+  font-size: 25px;
+  margin: 20px;
+  margin-left: 600px;
   border: 2px solid black;
   border-radius: 8px ;
  background-color: lightblue;

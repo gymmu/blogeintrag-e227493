@@ -15,7 +15,7 @@ body {
 h1 {
   color:white;
   text-align: center;
-  text-decoration: none;
+  
 
 }
 
@@ -75,7 +75,7 @@ li a:hover{
   padding: 10px;
   width: 100%;
   height: 500px; 
-  font-size: 50pt;
+  font-size: 70pt;
   background-image: url(https://static.spektrum.de/fm/912/f2000x857/iStock-1495819409.jpg);
   background-position: bottom 100px;
 }

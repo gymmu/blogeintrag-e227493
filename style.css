@@ -83,7 +83,8 @@ main{
   color:white;
   font-size: 25px;
   margin: 20px;
-  margin-left: 800px;
+  margin-right: 800px;
+  margin-top: 90px;
   border: 2px ;
   border-radius: 1px ;
  background-color: rgb(25, 133, 169);
@@ -96,6 +97,7 @@ main{
   font-size: 25px;
   margin: 20px;
   margin-right: 800px;
+  margin-top: 90px;
   border: 2px ;
   border-radius: 1px ;
  background-color: rgb(25, 133, 169);
@@ -107,6 +109,7 @@ main{
   font-size: 25px;
   margin: 20px;
   margin-right: 800px;
+  margin-top: 90px;
   border: 2px ;
   border-radius: 1px ;
  background-color: rgb(25, 133, 169);
@@ -115,28 +118,39 @@ main{
 }
 div {
   background-color: lightblue;
+
 }
 .img1 {
-
+border: 2px;
+margin-left: 900px;
   width: 600px;
+ 
+  
 }
 .img2 {
-
+  border: 2px;
+  margin-left: 900px;
   width: 600px;
+  
 }
 .img3 {
-
+  border: 2px;
+  margin-left: 900px;
   width: 600px;
+  
 }
 .img4 {
-
+  border: 2px;
+  margin-left: 900px;
   width: 600px;
 }
 .img5 {
-
+  border: 2px;
+  margin-left: 900px;
   width: 600px;
 }
 .img6 {
-
+  border: 2px;
+  margin-left: 900px;
   width: 600px;
 }

@@ -29,6 +29,7 @@ overflow: hidden;
 background-color:blue;
 
 
+
 }
 
 li {
@@ -70,4 +71,6 @@ main{
   font-size: 20px;
   margin: 20px;
   border: 2px solid black;
+  border-radius: 8px;
+  background-color: lightcyan;
 }

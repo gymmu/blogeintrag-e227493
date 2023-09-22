@@ -16,15 +16,20 @@ h1 {
   color:white;
   text-align: center;
   text-decoration: none;
- 
 
 }
+
+
 h2 {
 text-align: center;
   font-size: 50px;
+  border: 4px;
+  transition: all 1s ease-in-out;
 }
 
-
+h2:hover {
+  letter-spacing: 1rem;
+}
 #Navigationsleiste {
 list-style-type: none;
 margin: 0;
@@ -96,4 +101,7 @@ main{
  background-color: lightblue;
  padding: 10px;
  text-align: justify;
+}
+div {
+  background-color: lightblue;
 }

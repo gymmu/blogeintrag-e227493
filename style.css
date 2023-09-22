@@ -80,28 +80,33 @@ li a:hover{
   background-position: bottom 100px;
 }
 main{
-  color: darkblue;
+  color:white;
   font-size: 25px;
   margin: 20px;
-  margin-left: 600px;
-  border: 2px solid black;
-  border-radius: 8px ;
- background-color: lightblue;
+  margin-left: 800px;
+  border: 2px ;
+  border-radius: 1px ;
+ background-color: rgb(25, 133, 169);
  padding: 10px;
  text-align: justify;
 }
 
 .text1 {
-  color: darkblue;
+  width: 50%;
+  color:white;
   font-size: 25px;
   margin: 20px;
-  margin-left: 600px;
-  border: 2px solid black;
-  border-radius: 8px ;
- background-color: lightblue;
+  margin-right: 800px;
+  border: 2px ;
+  border-radius: 1px ;
+ background-color: rgb(25, 133, 169);
  padding: 10px;
  text-align: justify;
 }
 div {
   background-color: lightblue;
+}
+.img1 {
+
+  width: 50%;
 }
